@@ -1,15 +1,15 @@
 return {
-	bot_api_key = '198733539:AAGV9pV-ry2He6PozSlAWRPXW3tO5DoNSe4',
+	bot_api_key = '261571174:AAHudP5_m1AZ7qKxM_lZ3TFZRNTQ-Z84zV0'
 	version = '4.0',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 23646077,
+		owner = 240616380,238773538
 		admins = {
-			[141956218] = true
+			[240616380,238773538] = true
 		}
 	},
-	log_chat = -1001057801239,
+	log_chat = -1079225345, 
 	bot_settings = {
 		cache_time = {
 			adminlist = 18000, --5 hours (18000s)
@@ -19,11 +19,11 @@ return {
 		notify_bug = true,
 		log_api_errors = false
 	},
-	channel = '@groupbutler_ch', --channel username with the '@'
+	channel = '@MuteTeam', --channel username with the '@'
 	help_groups = {
-		['Internatonal (English)'] = 'https://telegram.me/joinchat/CHYUej9jFxFN12MQqrLnUg', --group link, not username!
-		['Italian'] = false, --'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmgAXg',
-		['Persian'] = 'https://telegram.me/joinchat/CHYUej8VRwlY9dzoKMERog',
+		['Internatonal (English)'] = 'https://telegram.me/joinchat/CHYUejjFxFN1MQqrLg', --group link, not username!
+		['Italian'] = false, --'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmg',
+		['Persian'] = 'https://telegram.me/joinchat/D4HJJ0EEzVP9aax0YgoBiA',
 		['Spanish'] = false
 	},
 	languages = 'languages.lua',
