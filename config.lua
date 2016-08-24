@@ -4,10 +4,10 @@ return {
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 240616380,238773538
+		owner = 240616380,238773538,
 		admins = {
 			[240616380,238773538] = true
-		}
+		},
 	},
 	log_chat = -1079225345, 
 	bot_settings = {
