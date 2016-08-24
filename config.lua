@@ -4,7 +4,7 @@ return {
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 937183631,
+		owner = 240616380,
 		admins = {
 			[240616380] = true
 		}
