@@ -4,9 +4,9 @@ return {
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 240616380,
+		owner = 937183631,
 		admins = {
-			[238773538] = true
+			[240616380,238773538] = true
 		}
 	},
 	log_chat = -1001057801239,
@@ -21,9 +21,9 @@ return {
 	},
 	channel = '@MuteTeam', --channel username with the '@'
 	help_groups = {
-		['Internatonal (English)'] = 'https://telegram.me/joinchat/CHYUej9jFxFN12MQqrLnUg', --group link, not username!
+		['Internatonal (English)'] = 'https://telegram.me/joinchat/CieYUej9jFxFN12QqrLnUg', --group link, not username!
 		['Italian'] = false, --'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmgAXg',
-		['Persian'] = 'https://telegram.me/joinchat/CHYUej8VRwlY9dzoKMERog',
+		['Persian'] = 'https://telegram.me/joinchat/D4HJJ0EEzVP9aax0YgoBiA',
 		['Spanish'] = false
 	},
 	languages = 'languages.lua',
